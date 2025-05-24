@@ -28,14 +28,12 @@ Alongside my technical expertise, I’m also a **professional 3D designer**, **v
 
 * 🧠  I'm learning Apache Kafka
 * ✉️  You can contact me at [excellentezeh1@gmail.com](mailto:excelentezeh1@gmail.com)
-
 ## Connect on **LinkedIn**  <a href="https://linkedin.com/in/excellent ezeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="excellent ezeh" height="30" width="40" style = 'padding-bottom:10px' /></a>
-
 
 ## ⚙️ Tech Stack
 
 ### Languages: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<div align = "left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  /> 
 <img width="12" /> 
@@ -50,10 +48,10 @@ Alongside my technical expertise, I’m also a **professional 3D designer**, **v
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
+<img width="12" /></div>
 
 ### Libraries: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+<div align = "left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 <img width="12" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 <img width="12" /> 
@@ -70,24 +68,24 @@ Alongside my technical expertise, I’m also a **professional 3D designer**, **v
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-<img width="12" />
+<img width="12" /></div>
 
 ###  Data Viz: 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/960px-Tableau_Logo.png?20181120160841" height="40" alt="pytorch logo"  />
+<div align = "left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/960px-Tableau_Logo.png?20181120160841" height="40" alt="pytorch logo"  />
 <img width="12" />
 <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" height="40" alt="microsoft_excel logo"  />
 <img width="12" />
 <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" height="40" alt="microsoft-power-bi logo"  />
-<img width="12" /> 
+<img width="12" /> </div>
 
 ### Databases: 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" height="40" alt="microsoft_office_access logo"  />
+<div align = "left"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" height="40" alt="microsoft_office_access logo"  />
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" height="40" alt="mysql logo"  />
-<img width="12" />
+<img width="12" /></div>
 
 ### Tools: 
-<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+<div align = "left"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 <img width="12" />
@@ -110,4 +108,4 @@ Alongside my technical expertise, I’m also a **professional 3D designer**, **v
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-<img width="12" />
+<img width="12" /></div>
