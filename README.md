@@ -26,9 +26,11 @@ Alongside my technical expertise, I’m also a **professional 3D designer**, **v
 
 ---
 
-* 🧠  I'm learning Apache Kafka
+* 🧠  I'm currently learning Apache Kafka
 * ✉️  You can contact me at [excellentezeh1@gmail.com](mailto:excelentezeh1@gmail.com)
-## Connect on **LinkedIn**  <a href="https://linkedin.com/in/excellent ezeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="excellent ezeh" height="30" width="40" style = 'padding-bottom:10px' /></a>
+## Connect on **LinkedIn**  <a href="https://linkedin.com/in/excellent ezeh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="excellent ezeh" height="30" width="40" align = 'abstop' /></a>
+
+---
 
 ## ⚙️ Tech Stack
 
