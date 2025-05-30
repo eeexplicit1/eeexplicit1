@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/eeexplicit1/eeexplicit1/blob/master/git_banner.png" alt="Welcome Banner" />
+  <img src="https://github.com/eeexplicit1/eeexplicit1/blob/master/git_banner.gif" alt="Welcome Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm EE Explicit!</h1>
